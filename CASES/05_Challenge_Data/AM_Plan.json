@@ -32,16 +32,65 @@
 		"Project_7":{
 			"Asset_Name": "Line_1_2",
 			"Des_Type": "Maintenance",
-			"Date"    : "2026/10/01"
+			"Date"    : "2025/01/01"
 		},	
 		"Project_8":{
 			"Asset_Name": "Line_7_8",
 			"Des_Type": "Maintenance",
-			"Date"    : "2027/10/01"
+			"Date"    : "2025/01/01"
 		},												
 		"Project_9":{
 			"Asset_Name": "ST_5",
 			"Des_Type": "Replace",
-			"Date"    : "2032/10/01"
-		}		
+			"Date"    : "2025/01/01"
+		},		
+		"Project_10":{
+			"Asset_Name": "PV_10",
+			"Des_Type": "Replace",
+			"Date"    : "2027/10/01"
+		}, 
+		"Project_11":{
+			"Asset_Name": "CB_CI9",
+			"Des_Type": "Maintenance",
+			"Date"    : "2023/10/01"
+		},
+		"Project_12":{
+			"Asset_Name": "CHP_9",
+			"Des_Type": "Maintenance",
+			"Date"    : "2025/01/01"
+		},
+		"Project_13":{
+			"Asset_Name": "TR_0_1",
+			"Des_Type": "Maintenance",
+			"Date": "2029/10/01"
+		},
+		"Project_14":{
+			"Asset_Name": "CB_R12",
+			"Des_Type": "Maintenance",
+			"Date"    : "2027/10/01"
+		},
+		"Project_15":{
+			"Asset_Name": "CB_CI12",
+			"Des_Type": "Maintenance",
+			"Date"    : "2027/10/01"
+		},	
+		"Project_16":{
+			"Asset_Name": "Line_2_3",
+			"Des_Type": "Maintenance",
+			"Date"    : "2025/01/01"
+		},	
+		"Project_17":{
+			"Asset_Name": "Line_3_4",
+			"Des_Type": "Maintenance",
+			"Date"    : "2025/01/01"
+		},												
+		"Project_18":{
+			"Asset_Name": "WT_7",
+			"Des_Type": "Replace",
+			"Date"    : "2027/01/01"
+		}
+
+
+
+
 }

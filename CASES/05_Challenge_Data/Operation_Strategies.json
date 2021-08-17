@@ -39,5 +39,68 @@
 			"Element_Name": "Load_R12",
 			"SERVICE": "False"
 		}
-		}		
+		},
+	"Strategy_4":{
+		"Step_1":{
+			"Element_Type": "SW",
+			"Element_Name": "S1",
+			"SERVICE": "True"
+		},
+		"Step_2":{
+			"Element_Type": "LO",
+			"Element_Name": "Load_R12",
+			"SERVICE": "False"
+		}
+	},
+	"Strategy_5":{
+		"Step_1":{
+			"Element_Type": "SW",
+			"Element_Name": "S2",
+			"SERVICE": "True"
+		}
+	},
+	"Strategy_6":{
+		"Step_1":{
+			"Element_Type": "SW",
+			"Element_Name": "S3",
+			"SERVICE": "True"
+		}
+	},
+	"Strategy_7":{
+		"Step_1":{
+			"Element_Type": "SW",
+			"Element_Name": "S1",
+			"SERVICE": "True"
+		},
+		"Step_2":{
+			"Element_Type": "SW",
+			"Element_Name": "S2",
+			"SERVICE": "True"
+		},
+		"Step_3":{
+			"Element_Type": "SW",
+			"Element_Name": "S3",
+			"SERVICE": "True"
+		}
+	},
+	"Strategy_8":{
+		
+		"Step_1":{
+			"Element_Type": "SW",
+			"Element_Name": "S1",
+			"SERVICE": "True"
+		},
+		"Step_2":{
+			"Element_Type": "LN",
+			"Element_Name": "Line_3_4",
+			"SERVICE": "False"
+		}
+	},
+	"Strategy_13":{
+		"Step_1":{
+			"Element_Type": "GEN",
+			"Element_Name": "WT_7",
+			"SERVICE": "False"
+		}
+	}
 }
